@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @VIJAY
+- 👋Hello!'👋
+   I’m VijayaNaaraayanan, a passionate full-stack developer with hands-on experience in application development, particularly using React Native for both Android and iOS platforms. I recently completed an
+   internship at Hubspire, where I developed impactful projects that have honed my skills in building user-friendly applications.
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
+ 👉Skills
+    Programming Languages: C, C++, Python, JavaScript, HTML, CSS
+    Frameworks: React, Express, React Native,Bootstrap
+    Web Development: MERN stack (MongoDB, Express.js, React.js, Node.js)
+    Mobile Development: React Native, Expo
+    Machine Learning: Python libraries (NumPy, Pandas, TensorFlow)
+    Data Structures & Algorithms: Proficient in data structures and algorithms, with a strong understanding of OOPS principles.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+    - Mobile - 8870589444
+    - Mail - vijaybalaram05@gmail.com
+    - Linkedin - https://www.linkedin.com/in/vijayanaaraayanan-b-326885259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJ8MWDhALQE%2BYbEsjqHv77A%3D%3D
 
 <!---
 VIJAYANAARAAYANAN/VIJAYANAARAAYANAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
