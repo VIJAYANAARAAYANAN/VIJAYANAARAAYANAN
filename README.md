@@ -14,7 +14,7 @@
 - 📫 How to reach me ...
     - Mobile - 8870589444
     - Mail - vijaybalaram05@gmail.com
-    - Linkedin - https://www.linkedin.com/in/vijayanaaraayanan-b-326885259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJ8MWDhALQE%2BYbEsjqHv77A%3D%3D
+    - Linkedin - https://www.linkedin.com/in/vijayanaaraayanan-b-326885259/
 
 <!---
 VIJAYANAARAAYANAN/VIJAYANAARAAYANAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
